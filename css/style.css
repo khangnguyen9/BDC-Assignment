@@ -595,3 +595,9 @@ section:nth-child(even){
     }
 
 }
+
+/**/
+.motivation .content, .result .content {
+    text-align: center;
+    font-size: 1.5rem;
+}
